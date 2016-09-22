@@ -1,1 +1,5 @@
-language: cpp
+language:node_js
+
+node_js:
+ - "stable"
+script:gulp_travis
